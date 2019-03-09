@@ -1,5 +1,11 @@
+body{
+    width: 100%;
+    font-size: 100%;
+}
+
 h1 {
-    text-align: left;
+    text-align: center;
+    width: 100%;
 }
 
 table, th, td {
